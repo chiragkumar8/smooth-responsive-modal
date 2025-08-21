@@ -35,6 +35,6 @@ Supports desktop **centered fade-in modals** and mobile **slide-up modals** with
 
 ## 🚀 Demo
 If you host it using **GitHub Pages**, you can add a live demo link here:  
-`[https://your-username.github.io/smooth-responsive-modal/](https://github.com/chiragkumar8/smooth-responsive-modal)`
+[https://github.com/chiragkumar8/smooth-responsive-modal](https://github.com/chiragkumar8/smooth-responsive-modal)
 
 
