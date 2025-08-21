@@ -11,7 +11,7 @@ Supports desktop **centered fade-in modals** and mobile **slide-up modals** with
 - 🔗 Uses [Font Awesome](https://fontawesome.com/) for icons  
 
 ## 📷 Preview
-(You can add a GIF or screenshot of the modal in action here)
+![Smooth Responsive Modal Demo](images/modal-demo.gif)
 
 ## 📂 How to Use
 1. Clone this repository: [https://github.com/chiragkumar8/smooth-responsive-modal](https://github.com/chiragkumar8/smooth-responsive-modal)
