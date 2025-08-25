@@ -16,6 +16,7 @@ Supports desktop **centered fade-in modals** and mobile **slide-up modals** with
 
 **Mobile**
 ![Smooth Responsive Modal Demo](images/mobile-modal.gif)
+
 ## 📂 How to Use
 1. Clone this repository: [https://github.com/chiragkumar8/smooth-responsive-modal](https://github.com/chiragkumar8/smooth-responsive-modal)
 2. Open the `index.html` file in your browser.  
